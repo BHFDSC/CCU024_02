@@ -20,7 +20,6 @@ This study will provide the first analysis of ethnicity, area-based deprivation,
 ## Contents
 
 * [View the analysis code used in NHS Digital's TRE for England](https://github.com/BHFDSC/CCU024_02/tree/main/code)
-* [View the phenotyping algorithms and codelists used in NHS Digital's TRE for England](https://github.com/BHFDSC/CCU024_02/tree/main/phenotypes)
 
 ## Project approval
 
