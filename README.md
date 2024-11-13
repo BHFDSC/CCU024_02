@@ -19,7 +19,7 @@ This study will provide the first analysis of ethnicity, area-based deprivation,
 ## How to cite this work
 
 Davies JM, Leniz J, Chua K-C, et al. Association between ethnicity and emergency department visits in the last three months of life in England: a retrospective population-based study using electronic health records. BMJ Public Health
-2024;2:e001121. https://doi:10.1136/bmjph-2024-001121
+2024;2:e001121. https://doi.org/10.1136/bmjph-2024-001121
 
 ## Contents
 
