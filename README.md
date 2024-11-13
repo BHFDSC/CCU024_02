@@ -1,5 +1,7 @@
 # Intersectional inequality in emergency department (ED) visits, in-hours and out-of-hours, in the last 3 months of life for people who died in England in 2020
 
+**Joanna M Davies, Javiera Leniz, Kia-Chong Chua, Lesley E Williamson, Sabrina Bajwah, Thomas Bolton, Anna E Bone, Mevhibe Hocaoglu, Julia Verne, Lorna K Fraser, Stephen Barclay, Fliss E M Murtagh, Irene J Higginson, Katherine E Sleeman, on behalf of the CVD-COVID-UK/COVID-IMPACT Consortium**
+
 ## Project description
 
 Our [earlier analyses for CovPall Connect](https://github.com/BHFDSC/CCU024_01) have shown that: 1) there were notable changes in care for people approaching the end of life that occurred during the Covid-19 pandemic including a shift from hospital to home deaths; 2) socioeconomic inequalities in place of death increased during the pandemic; 3) the rate of ED visits increases steeply as people approach the end of life; 4) end of life ED visits in 2020 demonstrated a clear deprivation gradient, being higher for people who live in more deprived areas.
@@ -15,11 +17,13 @@ However, very little is known about how ethnicity and area-based deprivation int
 This study will provide the first analysis of ethnicity, area-based deprivation, geographical location, and morbidity as intersectional risk factors for ED visits in the last 3 months of life.
 
 ## How to cite this work
-> Citation details to follow
+
+Davies JM, Leniz J, Chua K-C, et al. Association between ethnicity and emergency department visits in the last three months of life in England: a retrospective population-based study using electronic health records. BMJ Public Health
+2024;2:e001121. https://doi:10.1136/bmjph-2024-001121
 
 ## Contents
 
-* [View the analysis code used in NHS Digital's TRE for England](https://github.com/BHFDSC/CCU024_02/tree/main/code)
+* [View the analysis code used in NHS England's SDE for England](https://github.com/BHFDSC/CCU024_02/tree/main/code)
 
 ## Project approval
 
